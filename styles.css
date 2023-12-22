@@ -9,6 +9,18 @@ html{
   }
 
 {style}
-  hr {text-align: center;
+  p
+  {text-align: center;
     color: deeppink; 
+    text
+  }
+  
+  h1
+  {
+    text-align: center;
+  }
+
+    nav a {
+      display: block; /* Hace que el enlace sea un bloque para ocupar todo el ancho disponible */
+      text-align: center; /* Alinea el texto al centro */
   }
